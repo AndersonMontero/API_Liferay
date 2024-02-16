@@ -1,0 +1,4 @@
+Bundle-Name: servico
+Bundle-SymbolicName: com.servico.prueba
+Bundle-Version: 1.0.0
+Export-Package: com.servico.prueba.constants
